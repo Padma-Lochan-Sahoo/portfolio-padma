@@ -4,11 +4,11 @@
 
 ### Full Stack Developer · MERN · DevOps · GenAI
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Site-00bf8f?style=for-the-badge&logoColor=white)](https://your-vercel-link.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Site-00bf8f?style=for-the-badge&logoColor=white)](https://padma-lochan-sahoo.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Padma--Lochan--Sahoo-181717?style=for-the-badge&logo=github)](https://github.com/Padma-Lochan-Sahoo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/padma-lochan-sahoo/)
 
-![Portfolio Preview](./src/assets/images/avator.png)
+![Portfolio Preview](./src/assets/images/Demo.png)
 
 </div>
 
@@ -24,7 +24,7 @@ Designed for performance, clean architecture, and scalability. Every section is 
 
 ## 🌐 Live Demo
 
-> **[https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)**
+> **[https://padma-lochan-sahoo.vercel.app](https://padma-lochan-sahoo.vercel.app)**
 >
 > _(Replace this URL with your actual Vercel deployment link after deploying)_
 
@@ -298,7 +298,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Padma Lochan Sahoo**
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:padmalochan@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:padmalochansahoo8503@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-padma--lochan--sahoo-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/padma-lochan-sahoo/)
 [![GitHub](https://img.shields.io/badge/GitHub-Padma--Lochan--Sahoo-181717?style=flat-square&logo=github)](https://github.com/Padma-Lochan-Sahoo)
 [![X / Twitter](https://img.shields.io/badge/X-@Padma7848878503-000000?style=flat-square&logo=x)](https://x.com/Padma7848878503)
