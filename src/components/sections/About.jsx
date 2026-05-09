@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import GlowBlob from "../common/GlowBlob";
-import { BoyImg } from "../../assets";
+import { PadmaImg } from "../../assets";
 import { scrollToSection } from "../../utils/helpers";
 
 const STATS = [
@@ -41,7 +41,7 @@ const About = () => (
           whileHover={{ scale: 1.02 }}
           transition={{ type: "spring", stiffness: 200, damping: 18 }}
         >
-          <img src={BoyImg} alt="Padma Lochan Sahoo profile" className="absolute inset-0 w-full h-full object-cover" loading="lazy" />
+          <img src={PadmaImg} alt="Padma Lochan Sahoo profile" className="absolute inset-0 w-full h-full object-cover" loading="lazy" />
         </motion.div>
 
         <div className="flex flex-1 flex-col justify-center text-center md:text-left">

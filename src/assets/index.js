@@ -19,3 +19,5 @@ export { default as Project3 } from "./images/project3.png";
 export { default as Mobile1 } from "./images/mobile1.jpg";
 export { default as Mobile2 } from "./images/mobile2.jpg";
 export { default as Mobile3 } from "./images/mobile3.jpg";
+
+export { default as PadmaImg } from "./images/padma.jpg";
