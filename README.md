@@ -25,8 +25,6 @@ Designed for performance, clean architecture, and scalability. Every section is 
 ## 🌐 Live Demo
 
 > **[https://padma-lochan-sahoo.vercel.app](https://padma-lochan-sahoo.vercel.app)**
->
-> _(Replace this URL with your actual Vercel deployment link after deploying)_
 
 ---
 
